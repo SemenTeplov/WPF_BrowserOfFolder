@@ -1,0 +1,66 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="BigIcon.png" />
+    <None Remove="Copy.png" />
+    <None Remove="Cut.png" />
+    <None Remove="Help.png" />
+    <None Remove="Invert.png" />
+    <None Remove="LargeIcon.png" />
+    <None Remove="MiddleIcon.png" />
+    <None Remove="Move.png" />
+    <None Remove="New.png" />
+    <None Remove="NewFolder.png" />
+    <None Remove="OrderBy.png" />
+    <None Remove="Past.png" />
+    <None Remove="Properties.png" />
+    <None Remove="Quit.png" />
+    <None Remove="Redo.png" />
+    <None Remove="Remove.png" />
+    <None Remove="Rename.png" />
+    <None Remove="SelectAll.png" />
+    <None Remove="Settings.png" />
+    <None Remove="SmallIcon.png" />
+    <None Remove="TinyIcon.png" />
+    <None Remove="Undo.png" />
+    <None Remove="UnSelect.png" />
+    <None Remove="Up.png" />
+    <None Remove="Update.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="BigIcon.png" />
+    <Resource Include="Copy.png" />
+    <Resource Include="Cut.png" />
+    <Resource Include="Help.png" />
+    <Resource Include="Invert.png" />
+    <Resource Include="LargeIcon.png" />
+    <Resource Include="MiddleIcon.png" />
+    <Resource Include="Move.png" />
+    <Resource Include="New.png" />
+    <Resource Include="NewFolder.png" />
+    <Resource Include="OrderBy.png" />
+    <Resource Include="Past.png" />
+    <Resource Include="Properties.png" />
+    <Resource Include="Quit.png" />
+    <Resource Include="Redo.png" />
+    <Resource Include="Remove.png" />
+    <Resource Include="Rename.png" />
+    <Resource Include="SelectAll.png" />
+    <Resource Include="Settings.png" />
+    <Resource Include="SmallIcon.png" />
+    <Resource Include="TinyIcon.png" />
+    <Resource Include="Undo.png" />
+    <Resource Include="UnSelect.png" />
+    <Resource Include="Up.png" />
+    <Resource Include="Update.png" />
+  </ItemGroup>
+
+</Project>
