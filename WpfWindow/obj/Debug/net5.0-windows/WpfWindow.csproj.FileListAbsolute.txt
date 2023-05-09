@@ -1,0 +1,44 @@
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\bin\Debug\net5.0-windows\WpfWindow.exe
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\bin\Debug\net5.0-windows\WpfWindow.deps.json
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\bin\Debug\net5.0-windows\WpfWindow.runtimeconfig.json
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\bin\Debug\net5.0-windows\WpfWindow.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\bin\Debug\net5.0-windows\WpfWindow.dll
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\bin\Debug\net5.0-windows\WpfWindow.pdb
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow_MarkupCompile.cache
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow_MarkupCompile.lref
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.g.resources
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.AssemblyInfo.cs
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.dll
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\refint\WpfWindow.dll
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.pdb
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.genruntimeconfig.cache
+C:\Users\Админ\source\repos\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\ref\WpfWindow.dll
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\bin\Debug\net5.0-windows\WpfWindow.exe
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\bin\Debug\net5.0-windows\WpfWindow.deps.json
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\bin\Debug\net5.0-windows\WpfWindow.runtimeconfig.json
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\bin\Debug\net5.0-windows\WpfWindow.runtimeconfig.dev.json
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\bin\Debug\net5.0-windows\WpfWindow.dll
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\bin\Debug\net5.0-windows\WpfWindow.pdb
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow_MarkupCompile.cache
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow_MarkupCompile.lref
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.g.resources
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.dll
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\refint\WpfWindow.dll
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.pdb
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\WpfWindow.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ДЗ\WPF\дз 1\WpfWindow\WpfWindow\obj\Debug\net5.0-windows\ref\WpfWindow.dll
